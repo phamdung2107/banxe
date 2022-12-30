@@ -214,9 +214,15 @@ img.cangiua {
 	line-height: 3;
 }
 
-.nutchonmua {
+.chonmua {
+	margin: 10px 0;
 	width: 7%;
 	height: 30px;
+}
+
+.chonmua:hover{
+	cursor: pointer;
+	opacity: 0.7;
 }
 
 .bang{
